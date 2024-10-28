@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-# Doxxer-Hacker by Angel Del Villar
-# https://github.com/Angel-iluminaty
-# Discord: angel del villar
+# Doxxer-Toolkit by Euronymou5
+# https://twitter.com/Euronymou51
+# Discord: Euronymou5#3155
 # LICENSE: MPL-2.0 license
 
 import os
@@ -40,7 +40,7 @@ logo = Colores.red + '''
 ░█▀▀█ ░█▄▄█ ░█─── ░█▀▄─ ░█▀▀▀ ░█▄▄▀ 
 ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ░█▄▄▄ ░█─░█
                    
-                    By: Angel Del Villar
+                    By:  Angel Del Villar
                     _______________
 
                      Version: v2.6
@@ -916,7 +916,7 @@ def menu():
     os.system("clear")
     print(logo)
     print(Colores.red + '''
-    [~] Bienvenido a Doxxer Toolkit!
+    [~] Bienvenido a Doxxer-Hacker!
                       
     [1] IPloggers      
     [2] Geolocalizar IP             
